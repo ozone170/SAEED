@@ -7,7 +7,7 @@ import base64
 # 🎁 CONFIG — personalize here
 # ===============================
 CONFIG = {
-    "recipient_name": "Aditya Sindhe",
+    "recipient_name": "RAJ",
     "message": "Wishing you joy, health, and all the happiness in the world. Happy Birthday! 💖",
     "photo_path": "assets/recipient.jpg",
     "audio_path": "assets/birthday.mp3",
